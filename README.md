@@ -1,6 +1,4 @@
-# mohammadn0man.github.io
-
-Hey there, I'm Mohammad Noman 👋
+# Hey there, I'm [Mohammad Noman](https://www.mohammadn0man.github.io) 👋
 
 [LinkedIn](https://www.linkedin.com/in/mohammadn0man/)
 
